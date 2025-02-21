@@ -1,2 +1,2 @@
 # wifiemail
-Wifi password related scripts
+Wifi information related scripts
